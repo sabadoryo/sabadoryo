@@ -1,6 +1,6 @@
 <div align="center">
   
-please teach me code
+  <i><b>please teach me code</b></i>
 
 -------------------
 <a href="https://www.w3schools.com">Visit W3Schools</a>
