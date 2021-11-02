@@ -24,6 +24,8 @@
 
 ![sabadoryo github streak](https://github-readme-streak-stats.herokuapp.com/?user=sabadoryo&theme=radical&include_all_commits=true&count_private=true)
 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabadoryo&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
  <div>
 
 -----
