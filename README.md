@@ -6,7 +6,7 @@ please teach me code
 
 ## Contact
 <a href="https://www.instagram.com/sb_sabadoryo">Instagram</a>
-  <a href"https://discord.gg/r9gNCUMany">Discord</a>  
+<a href"https://discord.gg/r9gNCUMany">Discord</a>  
 -------------------
 
 ### Languages and Tools  
