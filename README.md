@@ -1,7 +1,5 @@
-# README.md
 <div align="center">
   
-## About
 please teach me code
 
 -------------------
