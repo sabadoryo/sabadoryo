@@ -3,7 +3,6 @@
   <i><b>please teach me code</b></i>
 
 -------------------
-<a href="https://www.w3schools.com">Visit W3Schools</a>
 ## Contact
 <a href="https://www.instagram.com/sb_sabadoryo"><img width="100px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down"/></a> <a href="https://discord.gg/r9gNCUMany"><img width="100px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down"/></a>
 -------------------
