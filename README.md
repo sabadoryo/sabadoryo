@@ -3,7 +3,7 @@
 please teach me code
 
 -------------------
-
+<a href="https://www.w3schools.com">Visit W3Schools</a>
 ## Contact
 <a href="https://www.instagram.com/sb_sabadoryo">Instagram</a> <a href"https://discord.gg/r9gNCUMany">Discord</a>  
 -------------------
