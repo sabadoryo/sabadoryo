@@ -4,8 +4,6 @@
 
 ## Contact
 <a href="https://www.instagram.com/sb_sabadoryo"><img width="50px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down"/></a> <a href="https://discord.gg/r9gNCUMany"><img width="50px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down"/></a> <a href="https://www.linkedin.com/in/yernar-abilbay-92b46a175/"><img width="50px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"/></a>
--------------------
-
 ### Languages and Tools  
 <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="PHP" width="26px" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/php-512.png" />
